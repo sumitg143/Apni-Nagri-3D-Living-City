@@ -1,0 +1,6 @@
+{
+  "name": "Apni Nagri 3D Living City",
+  "description": "एक संपूर्ण जीवंत 3D शहर: होटल, रेस्टोरेंट, थिएटर, मंदिर, पुलिस स्टेशन, जेल, हवाई जहाज़, लाइब्रेरी, स्विमिंग पूल, झूले, स्टेडियम, गतिशील मौसम, मिनीगेम्स व इन्वेंटरी।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
